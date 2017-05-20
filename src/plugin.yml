@@ -1,0 +1,9 @@
+name: Lobby
+version: 1.0
+author: ManuGun
+main: Main.Main
+
+commands:
+     build:
+     setloc:
+     hub:
